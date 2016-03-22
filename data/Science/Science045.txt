@@ -1,0 +1,7 @@
+2008 Google Developer Day focuses on Internet APIs in Australia
+
+Friday, June 20, 2008 
+Google Developer Day 2008 took place on June 18 at the Wharf 8 Venue Complex in Sydney, Australia. This is the fourth event after Japan, China, and Taiwan. Thirteen Google Developer days have been scheduled for 2008. About 650 local developers participated in this conference.
+Internet APIs on websites and enterprises was emphasised at this event, in addition to discussions on Google Apps Engine, Google Maps, and Android.
+Alan Noble, Engineering Director of Google Australia and New Zealand, hoped potential talents and developers can be discovered in this conference, and also commented about the Internet era to local media: "Developers took hold of the notion that the web itself is truly the platform of the future - an open playing field where anyone can build innovative applications."
+

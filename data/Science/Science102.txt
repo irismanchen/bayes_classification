@@ -1,0 +1,26 @@
+An interview with Jimbo Wales/Color-free
+
+Wednesday, February 22, 2006 
+Colored version
+Wikinews: Raul654 asks: "Recently, there were revelations about organized attempts by US Congressmen to whitewash their articles. What is your take on this, as well as earlier reports of Corporate astroturfing?"
+WN: Nichalp asks: "Budget permitting, are there any plans to increase the number of Wikipedia servers, specifically into the less developed countries?"
+WN: An anonymous reader asks: "How much of a role do you feel the Wikipedia community (and the communities of its sister projects) should have in the running of the Wikimedia Foundation? Do you see an increasing separation of the organization from the projects? If so, do you regard that as beneficial or a potential problem?"
+WN: ALoan asks: "English Wikipedia is approaching 1 million articles, but less than 1 in a thousand are Featured articles. The list of featured articles English Wikipedia should have has few featured articles, and recent surveys of articles chosen at random show that many articles are poorly written. How can we get from here to an encyclopedia of well-written articles? Or should we not worry too much about coverage and content?"
+WN: GeorgeStepanek asks: "You've said that 'Wikimedia's mission is to give the world's knowledge to every single person on the planet in their own language.' But very few of the wikipedias in the languages of third-world countries are seeing as much activity as the first-world language wikipedias. Do you have any ideas on how this could be turned around?"
+WN: Jacoplane asks: "How do you feel we will be able to reach Wikipedia 1.0? The tools currently available for vetting our articles are crude at best. The Featured article process seems too slow, and the article validation feature seems to have died a quiet death. Are you planning a big push on this front?"
+WN: Quadell asks: "Most important decisions on Wikimedia projects are handled with consensus. However, we sometimes have to deal with legal issues, especially related to copyright law. For instance, we as a community may need to decide whether to consider a certain use "fair", or how to deal with conflicting copyright claims. Dealing with this through consensus is problematic, since we can't do something illegal even if there is widespread misguided support for it. In general, how can we as a community deal with these issues?"
+WN: Raul654 asks: "Where do you see Wikipedia in 10 years?"
+WN: Kevin Myers asks: "The values reflected in certain Wikipedia policies (anti-censorship, neutral point-of-view) are problematic in cultures where freedom of expression is limited, as the blocking of Wikipedia in mainland China and arguably the Muhammad cartoons controversy attest. As Wikipedia expands internationally, do you foresee Wikipedia becoming increasingly controversial in countries where "Western values" are seen as a potential threat?"
+WN: On a similar topic, Vsion asks: "Are there currently any efforts being undertaken by the Foundation to address the People's Republic of China's blocking of Wikipedia or to alleviate its effect?"
+WN: David.Monniaux asks: "The Foundation receives daily accusations of libel from semi-well-known people who have an entry on Wikipedia or are mentioned in some Wikipedia entry. What do you propose? Would a strict application of the rule of citing controversial claims suffice, in your opinion?"
+WN: Tony Sidaway asks: "In the past six weeks the number of userboxes on English Wikipedia has risen from 3500 to 6000 and, despite your appeals for restraint, the number pertaining to political beliefs has risen from 45 to 150. Can the problem of unsuitable userboxes still be resolved by debate?"
+WN: Larsinio asks: "How can Wikipedia effectively explain to the public its open-contribution model without simultaneously worrying the public about inaccurate information?"
+WN: Rob Church asks: "Do you consider the encyclopedia to be 'finished'? Do you think it ever can be?"
+WN: Raul654 and Pavel Vozenilek both asked, "What kind of cool new features/announcements can we expect to see in the next year or two?"
+WN: Celestianpower asks: "If you had not founded Wikipedia, and had just been referred to it by a friend, how active a contributor do you think you would be?"
+WN: OpenToppedBus asks: "The last fundraising drive was less successful than had been anticipated. Do you see a shortage of money holding back Wikipedia/Wikimedia in the short-to-medium-term, and are there any plans to bring in income from sources other than individual donations?"
+WN: Thryduulf asks: "What is your single greatest wish for Wikipedia?"
+Share this:           
+
+Got a correction? Add the template {{editprotected}} to the talk page along with your corrections, and it will be brought to the attention of the administrators.
+Please note that due to our archival policy, we will not alter or update the content of articles that are archived, but will only accept requests to make grammatical and formatting corrections.

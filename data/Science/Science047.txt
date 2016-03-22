@@ -1,0 +1,8 @@
+2008 Google Developer Day starts from Yokohama, Japan
+
+Thursday, June 12, 2008 
+2008 The 2nd-annual Google Developer Day started its tournament in Pasifico Yokohama, Japan as its first stage. According to Google, this programmer-based event is similar to Google I/O, the largest programming event which is only available in USA and held earlier on May 28 &amp; 29 in San Francisco, California.
+Takuya Oikawa, Software Engineer of Google Japan, analyzed the future trend on programming and redefined the "3C". "There are three key features to drive on the next generation programming, that is, 'Client' [user-oriented], 'Connectivity', and 'Cloud Computing'," stated Oikawa.
+Fumitoshi Ukai, the Software Engineer of Google Japan, has pointed out the importance of Google App Engine, and performed a SWOT analysis using the Sichuan earthquake as an example, and said: "The failure or success of Cloud Computing will be determined by three critical factors - ability of offline computing, language support, and quotas of databases."
+After the Japan Stage, 2008 Google Developer Day will be held in China, Taiwan, Australia, Mexico, and Brazil during the month of June. The Europe Tour of Google Developer Day will kick off from London, England on September 16.
+

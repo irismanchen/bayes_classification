@@ -1,0 +1,14 @@
+Kurdish Linux launched in Turkey
+
+Friday, November 24, 2006 
+Kurdish Ubuntu, a Linux distribution, was promoted this week with a reception in Diyarbakir. Ubuntu was the first Linux distribution to implement Kurdish localization[1]. Kurdish localization in Linux is an important milestone for Turkey due to ethnic conflicts.
+Kurdish Ubuntu was prepared by a team of hardworking translators working on the Rosetta web application [1]. In his talk at the reception, the mayor of Sur (a town in Diyarbakir) said that "Whatever language it is in, we wanted it [our service] to be accessible multilingually because multilingualism is our wealth. Our work is being conducted on Kurdish, English, and Turkish language support. ... If we can integrate multilingualism, multi-identities, and multi-culturalism in this nation, this region will be a place of peace instead of conflicts." Mehmed Uzun, a Kurdish writer, speaking about the Kurdish language, told the attendees that "Our most important problem is that the language is not standardized. The Kurdish language should be standardized." Ubuntu was later distributed to the reception's attendees.
+The boot screen of Kurdish Ubuntu
+Splash screen of Kurdish Ubuntu
+Desktop screen
+Applications Menu (Internet)
+Applications Menu (Office)
+System Menu (Preferences)
+Firefox web browser start page
+OpenOffice.org word processing application
+Evolution (office tool and email client)

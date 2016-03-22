@@ -1,0 +1,8 @@
+CARTOSAT-I and HAMSAT satellites launched precisely by PSLV-C6, will have longer life
+
+Saturday, May 7, 2005 
+India's recently launched satellites, the 1560 kg Indian Remote Sensing satellite, CARTOSAT-1 for stereoscopic cartographic applications and 42.5 kg HAMSAT will have a longer life as per the Project Director, PSLV, N Narayana Murthy.
+Murthy told reporters that the additional fuel in the satellites for putting them into the right orbit can now be utilized for orbit maintenance maneuvers. This is due to their precise injection into the orbit by the PSLV-C6 Launcher.
+PSLV-C6 was launched by Indian Space Research Organization (ISRO) on May 5, 2005 10:15 IST (May 05, 04:45 UT). PSLV-C6 placed both the satellites in polar Sun Synchronous Orbit (SSO) at an altitude of 632 x 621 km with an inclination of 97.8 deg with respect to the equator. The solar panels of CARTOSAT-1 were deployed soon after its injection into orbit.
+CARTOSAT-1 is the eleventh satellite in the Indian remote sensing satellite series and is intended for cartographic applications. It carries two panchromatic cameras that take black-and-white stereoscopic pictures in the visible region of the electromagnetic spectrum.
+HAMSAT is a Micro-satellite for providing satellite based Amateur Radio services to the Indian as well as International community of Amateur Radio Operators (HAM).
